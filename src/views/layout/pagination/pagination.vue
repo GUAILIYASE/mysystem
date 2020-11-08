@@ -175,7 +175,7 @@
         name="filename.xls"
       
       >
-        <!-- 上面可以自定义自己的样式，还可以引用其他组件button -->
+      
         <el-button type="primary" size="small" >导出EXCEL</el-button>
       </download-excel>
 

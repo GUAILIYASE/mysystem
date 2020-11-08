@@ -69,7 +69,7 @@ export default {
   watch: {
     $route(to,from){
       if(from.path==='/havePost'&&(to.path==='edit'||to.path==='look')){
-
+       
       }
     }
 
